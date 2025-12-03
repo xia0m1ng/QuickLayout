@@ -13,7 +13,7 @@ import PackageDescription
 let package = Package(
   name: "QuickLayout",
   platforms: [
-    .iOS(.v15),
+    .iOS(.v14),
     .macOS(.v10_15),
   ],
   products: [
